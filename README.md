@@ -27,3 +27,4 @@ Notes:
 5. Display bars inspired by esk8.news JANPOM.  They show the relative difference in cell voltage from the pack mean voltage.  
 6. The number in parentheses in the top line is the maximum cell voltage delta (high-low).
 7. "B" means that cell is being actively balanced.
+8. Written for 10S, might get tight for more cells.  This ESP32 actually has a touch interface that you can actually swipe a second screen.  
