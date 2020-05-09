@@ -4,9 +4,9 @@ https://www.lithiumbatterypcb.com/
 Tested with original BLE module provided. Might work with generic BLE module when UUIDs are modified  
 
 Needs ESP32 and graphic display.  
-Tested on TTGO TS https://github.com/LilyGO/TTGO-TS  
+Tested on HILTEC ESP32 WROOM 32: https://heltec.org/project/wifi-kit-32/
 
-(c) Miroslav Kolinsky 2019  https://www.kolins.cz  
+Fork from the work of: (c) Miroslav Kolinsky 2019  https://www.kolins.cz  
 
 thanks to Petr Jenik for big parts of code  
 thanks to Milan Petrzilka  
@@ -18,7 +18,10 @@ known bugs:
 * reconnection sort of works, sometimes ESP reboots
 * GUI needs to be done
 
-Work in progress...
+![](esp32.gif)
 
-![Image](1.jpg)
-![Image](2.jpg)
+Notes:  
+1. Install Hardware libraries on Arduinio IDE per this turotial: https://robotzero.one/heltec-wifi-kit-32/
+2. I used this case from Thingiverse.  PLA, 15% infill.  Extended the longer dimesion by 2% in the print. https://www.thingiverse.com/thing:3148876
+3. The only connection required is 5vDC from ESC, BLE connection is automatic.
+
