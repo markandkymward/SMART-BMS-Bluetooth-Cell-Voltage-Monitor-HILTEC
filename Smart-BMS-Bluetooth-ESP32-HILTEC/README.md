@@ -13,12 +13,9 @@ thanks to Milan Petrzilka
 
 heavily inspired by https://github.com/bres55/Smart-BMS-arduino-Reader  
 
-known bugs:
-* if BLE server is not available during startup, program hangs
-* reconnection sort of works, sometimes ESP reboots
-* GUI needs to be done
 
 ![](esp32.gif)
+![](esp32.jpg)
 
 Notes:  
 1. Install Hardware libraries on Arduinio IDE per this turotial: https://robotzero.one/heltec-wifi-kit-32/
