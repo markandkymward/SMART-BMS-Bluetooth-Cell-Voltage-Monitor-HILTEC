@@ -19,6 +19,6 @@ heavily inspired by https://github.com/bres55/Smart-BMS-arduino-Reader
 
 Notes:
 
-Install Hardware libraries on Arduinio IDE per this turotial: https://robotzero.one/heltec-wifi-kit-32/
-I used this case from Thingiverse. PLA, 15% infill. Extended the longer dimesion by 2% in the print. https://www.thingiverse.com/thing:3148876
-The only connection required is 5vDC from ESC, BLE connection is automatic.
+1. Install Hardware libraries on Arduinio IDE per this turotial: https://robotzero.one/heltec-wifi-kit-32/
+2. I used this case from Thingiverse. PLA, 15% infill. Extended the longer dimesion by 2% in the print. https://www.thingiverse.com/thing:3148876
+3.The only connection required is 5vDC from ESC, BLE connection is automatic.
