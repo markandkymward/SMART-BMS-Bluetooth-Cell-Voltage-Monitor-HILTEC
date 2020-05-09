@@ -15,7 +15,7 @@ thanks to Milan Petrzilka
 
 heavily inspired by https://github.com/bres55/Smart-BMS-arduino-Reader
 
- 
+![](esp32.gif) 
 
 Notes:
 
