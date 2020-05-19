@@ -20,7 +20,7 @@ heavily inspired by https://github.com/bres55/Smart-BMS-arduino-Reader
 
 Notes:
 
-1. Install Hardware libraries on Arduinio IDE per this turotial: https://robotzero.one/heltec-wifi-kit-32/
+1. Install Hardware libraries on Arduinio IDE per this turotial: https://heltec-automation-docs.readthedocs.io/en/latest/esp32/quick_start.html
 2. Download the *.ino into working Arduino folder and flash the ESP32 - that's it!
 3. I used this case from Thingiverse. PLA, 15% infill. Extended the longer dimesion by 2% in the print. https://www.thingiverse.com/thing:3148876
 4. The only connection required is 5vDC from ESC, BLE connection is automatic.
