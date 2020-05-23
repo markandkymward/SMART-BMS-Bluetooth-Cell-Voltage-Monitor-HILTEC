@@ -17,6 +17,7 @@ heavily inspired by https://github.com/bres55/Smart-BMS-arduino-Reader
 
 ![](esp32.gif) 
 ![](esp32.jpg)
+![](onboard.jpg)
 
 Notes:
 
